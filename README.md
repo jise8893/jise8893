@@ -1,5 +1,5 @@
 ### Hi  👋
-게임 SERVER 개발 공부중 2020/12/22 <BR>
+ 2020/12/22 <BR>
  
 <!--
 **jise8893/jise8893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
