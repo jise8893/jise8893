@@ -3,6 +3,6 @@
  <div align=right>
 
  <br>
-
+blog : https://blog.naver.com/kkuraop
 
   </div>
